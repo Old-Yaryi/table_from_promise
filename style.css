@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  padding: 0 10px;
+}
+
+table thead {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+tbody tr td {
+  width: 150px;
+}
